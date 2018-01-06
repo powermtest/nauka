@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cwiczenie4SpeedLimit", "cwi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{73DC98DC-116D-47C7-ACB3-838E608DDD1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "Random\Random.csproj", "{A4A05B25-CB50-4C95-805E-FC8F8D6DBB29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{73DC98DC-116D-47C7-ACB3-838E608DDD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73DC98DC-116D-47C7-ACB3-838E608DDD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73DC98DC-116D-47C7-ACB3-838E608DDD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A05B25-CB50-4C95-805E-FC8F8D6DBB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A05B25-CB50-4C95-805E-FC8F8D6DBB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A05B25-CB50-4C95-805E-FC8F8D6DBB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A05B25-CB50-4C95-805E-FC8F8D6DBB29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

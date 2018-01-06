@@ -42,12 +42,13 @@ namespace Loops
             {
                 Console.Write("Type your name: ");
                 var input = Console.ReadLine();
-                if (string.IsNullOrWhiteSpace(input))
+                if (!string.IsNullOrWhiteSpace(input)) //zmieniamy to na przeciwienstwo (!), w celu pokazania jak dziala continue
                 {
-                    break;
+                    Console.WriteLine("@Echo: " + input);
+                    continue; //komenda wroci do poczatku petli
                 }
-
-                Console.WriteLine("@Echo: " + input);
+                break;
+                //Console.WriteLine("@Echo: " + input); //przenosimy to do wnetrza ifa
             }
 
             ////---------------------------------- przyklad foreach
