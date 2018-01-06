@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cwiczenie3", "cwiczenie3\cw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cwiczenie4SpeedLimit", "cwiczenie4SpeedLimit\cwiczenie4SpeedLimit.csproj", "{BFD5DCF2-BD5B-4A18-8F74-C91D8DAD7E29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{73DC98DC-116D-47C7-ACB3-838E608DDD1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BFD5DCF2-BD5B-4A18-8F74-C91D8DAD7E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFD5DCF2-BD5B-4A18-8F74-C91D8DAD7E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFD5DCF2-BD5B-4A18-8F74-C91D8DAD7E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DC98DC-116D-47C7-ACB3-838E608DDD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DC98DC-116D-47C7-ACB3-838E608DDD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DC98DC-116D-47C7-ACB3-838E608DDD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DC98DC-116D-47C7-ACB3-838E608DDD1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
